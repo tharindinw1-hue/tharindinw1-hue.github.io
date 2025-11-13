@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/static/css/main.98f67854.css",
-    "main.js": "/static/js/main.c84c44f5.js",
+    "main.js": "/static/js/main.a7267681.js",
     "static/media/presenting3.png": "/static/media/presenting3.45d54938be967af7005f.png",
     "static/media/MeHeader2.png": "/static/media/MeHeader2.a96d5315d32bcc3d4e1a.png",
     "static/media/Tharindi_Wimalajeewa_CV.pdf": "/static/media/Tharindi_Wimalajeewa_CV.3d7ad66a06560b7d2321.pdf",
     "index.html": "/index.html",
     "main.98f67854.css.map": "/static/css/main.98f67854.css.map",
-    "main.c84c44f5.js.map": "/static/js/main.c84c44f5.js.map"
+    "main.a7267681.js.map": "/static/js/main.a7267681.js.map"
   },
   "entrypoints": [
     "static/css/main.98f67854.css",
-    "static/js/main.c84c44f5.js"
+    "static/js/main.a7267681.js"
   ]
 }
